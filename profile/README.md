@@ -1,4 +1,4 @@
-<h3 align=center><strong>SYNRC 💬 CHAT</strong></h3>
+<h1 align=center><strong>SYNRC 💬 CHAT</strong></h1>
 
 <p>
 <div align="center">
