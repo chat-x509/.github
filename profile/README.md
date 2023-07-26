@@ -20,8 +20,8 @@
 </picture>
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/144776/256140280-f9ed1aa4-78b3-4399-9a33-4212d46ddeaf.png">
-<img src="https://user-images.githubusercontent.com/144776/256140280-f9ed1aa4-78b3-4399-9a33-4212d46ddeaf.png" width="40%" alt="NS.ERP.UNO">
+<source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/144776/256141513-eff90813-30a2-47ae-86d6-5da154223b64.png">
+<img src="https://user-images.githubusercontent.com/144776/256141513-eff90813-30a2-47ae-86d6-5da154223b64.png" width="40%" alt="NS.ERP.UNO">
 </picture>
 </div>
 </p>
