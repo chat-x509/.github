@@ -1,6 +1,6 @@
 <h3 align=center><strong>SYNRC 💬 CHAT</strong></h3>
 
-<p>align="center">
+<p align="center">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/144776/244975625-b7e0b60b-4b61-4ff6-a8c9-e27f2e4c4e7c.png">
 <img src="https://user-images.githubusercontent.com/144776/244975625-b7e0b60b-4b61-4ff6-a8c9-e27f2e4c4e7c.png" width="40%" alt="CHAT.ERP.UNO">
@@ -10,7 +10,9 @@
 <source media="(prefers-color-scheme: dark)" srcset="https://ca.erp.uno/priv/design/ca-shaders.png">
 <img src="https://ca.erp.uno/priv/design/ca-shaders.png" width="40%"  alt="CA.ERP.UNO">
 </picture>
+</p>
 
+<p align="center">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://ldap.erp.uno/priv/design/ldap-shaders.png">
 <img src="https://ldap.erp.uno/priv/design/ldap-shaders.png" width="40%"  alt="LDAP.ERP.UNO">
