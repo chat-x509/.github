@@ -1,9 +1,9 @@
-<p align="center"><strong>SYNRC 💬 CHAT</strong></p>
+<h3><strong>SYNRC 💬 CHAT</strong></h3>
 
 <p align="center">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/144776/244975625-b7e0b60b-4b61-4ff6-a8c9-e27f2e4c4e7c.png">
-<img src="https://user-images.githubusercontent.com/144776/244975625-b7e0b60b-4b61-4ff6-a8c9-e27f2e4c4e7c.png" width=100 alt="CHAT.ERP.UNO">
+<img src="https://user-images.githubusercontent.com/144776/244975625-b7e0b60b-4b61-4ff6-a8c9-e27f2e4c4e7c.png" width="100%" alt="CHAT.ERP.UNO">
 </picture>
 </p>
 
