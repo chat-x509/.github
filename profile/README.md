@@ -24,6 +24,7 @@
 
 <p align="center">
 Publications:<br><br>
+<table border=0><tr><td>
 &mdash; <a href="https://tonpa.guru/stream/2010/2010-10-18 LDAP.htm">2010-10-18 LDAP</a><br>
 &mdash; <a href="https://tonpa.guru/stream/2023/2023-06-22 Месенжер.htm">2023-06-22 CHAT Месенжер</a><br>
 &mdash; <a href="https://chat.erp.uno">2023-06-30 CMS CHAT X.509 (Home)</a><br>
@@ -34,6 +35,7 @@ Publications:<br><br>
 &mdash; <a href="https://ldap.erp.uno">2023-07-25 LDAP 13.7.24 (Home)</a><br>
 &mdash; <a href="https://ca.erp.uno">2023-07-30 CA X.509 (Home)</a><br>
 &mdash; <a href="https://tonpa.guru/stream/2023/2023-07-27 MLS.htm">2023-07-27 MLS</a><br>
+</td></tr></table>
 </p>
 
 <p align="center">
