@@ -1,6 +1,7 @@
 <h3 align=center><strong>SYNRC 💬 CHAT</strong></h3>
 
-<p align="center">
+<p>
+<div align="center">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/144776/244975625-b7e0b60b-4b61-4ff6-a8c9-e27f2e4c4e7c.png">
 <img src="https://user-images.githubusercontent.com/144776/244975625-b7e0b60b-4b61-4ff6-a8c9-e27f2e4c4e7c.png" width="40%" alt="CHAT.ERP.UNO">
@@ -10,9 +11,9 @@
 <source media="(prefers-color-scheme: dark)" srcset="https://ca.erp.uno/priv/design/ca-shaders.png">
 <img src="https://ca.erp.uno/priv/design/ca-shaders.png" width="40%"  alt="CA.ERP.UNO">
 </picture>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://ldap.erp.uno/priv/design/ldap-shaders.png">
 <img src="https://ldap.erp.uno/priv/design/ldap-shaders.png" width="40%"  alt="LDAP.ERP.UNO">
@@ -22,6 +23,7 @@
 <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/144776/256140280-f9ed1aa4-78b3-4399-9a33-4212d46ddeaf.png">
 <img src="https://user-images.githubusercontent.com/144776/256140280-f9ed1aa4-78b3-4399-9a33-4212d46ddeaf.png" width="40%" alt="NS.ERP.UNO">
 </picture>
+</div>
 </p>
 
 <p align="center">
