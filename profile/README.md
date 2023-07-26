@@ -17,7 +17,7 @@
 mahy-policy-ext-00, mahy-x25519kyber768draft00-00, mahy-selfremove-00, barnes-userinfo-vc-00, mahy-group-anchors-00.</p>
 
 <br>
-<p align=center>&dot;<br></p>
+<p align=center>&dot;<br><br></p>
 
 <p>
 <div align="center">
