@@ -17,7 +17,7 @@
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/144776/256138561-a6836407-7bc0-48b0-8134-30375cf82216.png">
-<img src="https://user-images.githubusercontent.com/144776/256138561-a6836407-7bc0-48b0-8134-30375cf82216.png" width="40%" alt="CHAT.ERP.UNO">
+<img src="https://user-images.githubusercontent.com/144776/256139035-026340a0-8bce-41e2-a759-d2533b1cdee3.png" width="40%" alt="CHAT.ERP.UNO">
 </picture>
 
 <p>Publications:</p>
