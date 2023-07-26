@@ -16,8 +16,8 @@
 </picture>
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/144776/256139375-7985e8e4-2d98-41be-b10d-149d69e586a5.png">
-<img src="https://user-images.githubusercontent.com/144776/256139375-7985e8e4-2d98-41be-b10d-149d69e586a5.png" width="40%" alt="NS.ERP.UNO">
+<source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/144776/256140280-f9ed1aa4-78b3-4399-9a33-4212d46ddeaf.png">
+<img src="https://user-images.githubusercontent.com/144776/256140280-f9ed1aa4-78b3-4399-9a33-4212d46ddeaf.png" width="40%" alt="NS.ERP.UNO">
 </picture>
 
 <p>Publications:</p>
