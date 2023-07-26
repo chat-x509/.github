@@ -1,5 +1,6 @@
-<h3><strong>SYNRC 💬 CHAT</strong></h3>
+<h3 align=center><strong>SYNRC 💬 CHAT</strong></h3>
 
+<p>align="center">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/144776/244975625-b7e0b60b-4b61-4ff6-a8c9-e27f2e4c4e7c.png">
 <img src="https://user-images.githubusercontent.com/144776/244975625-b7e0b60b-4b61-4ff6-a8c9-e27f2e4c4e7c.png" width="40%" alt="CHAT.ERP.UNO">
@@ -19,10 +20,10 @@
 <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/144776/256140280-f9ed1aa4-78b3-4399-9a33-4212d46ddeaf.png">
 <img src="https://user-images.githubusercontent.com/144776/256140280-f9ed1aa4-78b3-4399-9a33-4212d46ddeaf.png" width="40%" alt="NS.ERP.UNO">
 </picture>
+</p>
 
-<p>Publications:</p>
-
-<p>
+<p align="center">
+Publications:<br><br>
 &mdash; <a href="https://tonpa.guru/stream/2010/2010-10-18 LDAP.htm">2010-10-18 LDAP</a><br>
 &mdash; <a href="https://tonpa.guru/stream/2023/2023-06-22 Месенжер.htm">2023-06-22 CHAT Месенжер</a><br>
 &mdash; <a href="https://chat.erp.uno">2023-06-30 CMS CHAT X.509 (Home)</a><br>
