@@ -42,7 +42,7 @@ Publications:
 </td></tr></table>
 </p>
 
-<br><center>&dot;</center>
+<p align=center>&dot;</p>
 
 <p align="center">
 <picture>
