@@ -20,7 +20,7 @@ mahy-policy-ext-00, mahy-x25519kyber768draft00-00, mahy-selfremove-00, barnes-us
 <p align=center>&dot;<br><br></p>
 
 <p>
-<div align="center">Servers:
+<div align="center">Servers:<br><br>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/144776/244975625-b7e0b60b-4b61-4ff6-a8c9-e27f2e4c4e7c.png">
 <img src="https://user-images.githubusercontent.com/144776/244975625-b7e0b60b-4b61-4ff6-a8c9-e27f2e4c4e7c.png" width="40%" alt="CHAT.ERP.UNO">
