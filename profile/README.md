@@ -7,17 +7,17 @@
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://ca.erp.uno/priv/design/ca-shaders.png">
-<img src="https://ca.erp.uno/priv/design/ca-shaders.png" width="40%"  alt="CHAT.ERP.UNO">
+<img src="https://ca.erp.uno/priv/design/ca-shaders.png" width="40%"  alt="CA.ERP.UNO">
 </picture>
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://ldap.erp.uno/priv/design/ldap-shaders.png">
-<img src="https://ldap.erp.uno/priv/design/ldap-shaders.png" width="40%"  alt="CHAT.ERP.UNO">
+<img src="https://ldap.erp.uno/priv/design/ldap-shaders.png" width="40%"  alt="LDAP.ERP.UNO">
 </picture>
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/144776/256138561-a6836407-7bc0-48b0-8134-30375cf82216.png">
-<img src="https://user-images.githubusercontent.com/144776/256139035-026340a0-8bce-41e2-a759-d2533b1cdee3.png" width="40%" alt="CHAT.ERP.UNO">
+<source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/144776/256139375-7985e8e4-2d98-41be-b10d-149d69e586a5.png">
+<img src="https://user-images.githubusercontent.com/144776/256139375-7985e8e4-2d98-41be-b10d-149d69e586a5.png" width="40%" alt="NS.ERP.UNO">
 </picture>
 
 <p>Publications:</p>
