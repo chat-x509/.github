@@ -24,7 +24,7 @@
 
 <p align="center">
 Publications:<br><br>
-<table border=0><tr><td>
+<table border=0 cellpadding=0 cellspacing=0><tr><td>
 &mdash; <a href="https://tonpa.guru/stream/2010/2010-10-18 LDAP.htm">2010-10-18 LDAP</a><br>
 &mdash; <a href="https://tonpa.guru/stream/2023/2023-06-22 Месенжер.htm">2023-06-22 CHAT Месенжер</a><br>
 &mdash; <a href="https://chat.erp.uno">2023-06-30 CMS CHAT X.509 (Home)</a><br>
