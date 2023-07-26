@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-Publications:<br><br>
+Publications:
 <table align=center border=0 cellpadding=0 cellspacing=0><tr><td>
 &mdash; <a href="https://tonpa.guru/stream/2010/2010-10-18 LDAP.htm">2010-10-18 LDAP</a><br>
 &mdash; <a href="https://tonpa.guru/stream/2023/2023-06-22 Месенжер.htm">2023-06-22 CHAT Месенжер</a><br>
